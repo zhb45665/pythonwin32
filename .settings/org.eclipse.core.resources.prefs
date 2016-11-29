@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//Excel/excel.py=utf-8
+encoding//Excel/filelist.py=utf-8
+encoding//Excel/findwav.py=utf-8
+encoding//Excel/read_excel_to_db.py=utf-8
+encoding//Excel/read_excel_xld.py=utf-8
+encoding//Excel/read_xml.py=utf-8
+encoding//Excel/read_xml_Dom.py=utf-8
+encoding//Excel/select_to_excel.py=utf-8
+encoding/<project>=UTF-8
